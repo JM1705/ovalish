@@ -1,0 +1,52 @@
+{
+    "VID_20240906_124731.mp4": {
+        "pixels_per_meter": 1569.2195512419542,
+        "string_length": 0.218,
+        "string_length_code": 0.23
+    },
+    "VID_20240906_124910.mp4": {
+        "pixels_per_meter": 1569.2195512419542,
+        "string_length": 0.218,
+        "string_length_code": 0.23
+    },
+    "VID_20240906_130408.mp4": {
+        "pixels_per_meter": 1560.0080127999342,
+        "string_length": 0.218,
+        "string_length_code": 0.23
+    },
+    "VID_20240906_131255.mp4": {
+        "pixels_per_meter": 1541.1683879446787,
+        "string_length": 0.218,
+        "string_length_code": 0.23
+    },
+    "VID_20240909_124830.mp4": {
+        "pixels_per_meter": 3125.4839625248437,
+        "string_length": 0.218,
+        "string_length_code": 0.23
+    },
+    "VID_20240909_125223.mp4": {
+        "pixels_per_meter": 3077.1740282278474,
+        "string_length": 0.218,
+        "string_length_code": 0.23
+    },
+    "VID_20240909_130352.mp4": {
+        "pixels_per_meter": 1542.6276284314372,
+        "string_length": 0.218,
+        "string_length_code": 0.23
+    },
+    "VID_20240909_130749.mp4": {
+        "pixels_per_meter": 1542.6276284314372,
+        "string_length": 0.218,
+        "string_length_code": 0.23
+    },
+    "VID_20240909_130846.mp4": {
+        "pixels_per_meter": 1542.6276284314372,
+        "string_length": 0.218,
+        "string_length_code": 0.23
+    },
+    "VID_20240909_131003.mp4": {
+        "pixels_per_meter": 1542.6276284314372,
+        "string_length": 0.218,
+        "string_length_code": 0.23
+    }
+}
